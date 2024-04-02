@@ -1,4 +1,5 @@
 AI-Generated Playlist Curation for Spotify
+
 Overview
 This repository hosts an innovative project tailored for Spotify users, utilizing advanced AI technology to craft personalized playlists based on user-provided prompts. Empowered by OpenAI's cutting-edge GPT-3.5 language model, our AI assistant comprehends natural language queries to curate playlists perfectly aligned with your musical preferences.
 
