@@ -56,13 +56,17 @@ Execute the cells in the notebook to interactively generate playlists based on u
 
 ### Python Scripts
 playlist_generator.py
+
 This script provides a command-line interface to generate playlists.
+
 Usage:
 
 python playlist_generator.py -p "your_playlist_prompt" -n number_of_songs
 
 spotify_playlist.py
+
 This script generates a playlist based on a prompt and adds it to the user's Spotify account.
+
 Usage:
 
 python spotify_playlist.py -p "your_playlist_prompt" -n number_of_songs
