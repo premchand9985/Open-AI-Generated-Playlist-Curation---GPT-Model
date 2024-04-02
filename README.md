@@ -6,10 +6,10 @@ This repository hosts an innovative project tailored for Spotify users, utilizin
 
 ## Key Features
 
-Intelligent Playlist Generation: Our AI assistant comprehends various prompts, including moods, genres, themes, and more, to craft playlists that resonate with your musical taste.
-Customizable Playlist Length: Specify the desired number of songs for your playlist, and our assistant will curate it accordingly, ensuring a seamless listening experience.
-Spotify Integration: Seamlessly integrate our provided code snippets with the Spotify API to access your curated playlists directly within the Spotify platform.
-Flexible and Extensible: The project's codebase is modular and easily customizable, allowing users to tailor the playlist generation functionality to suit their specific needs or integrate it into their own applications.
+#### Intelligent Playlist Generation: Our AI assistant comprehends various prompts, including moods, genres, themes, and more, to craft playlists that resonate with your musical taste.
+#### Customizable Playlist Length: Specify the desired number of songs for your playlist, and our assistant will curate it accordingly, ensuring a seamless listening experience.
+#### Spotify Integration: Seamlessly integrate our provided code snippets with the Spotify API to access your curated playlists directly within the Spotify platform.
+#### Flexible and Extensible: The project's codebase is modular and easily customizable, allowing users to tailor the playlist generation functionality to suit their specific needs or integrate it into their own applications.
 
 ## Getting Started
 
